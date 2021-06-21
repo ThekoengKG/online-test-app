@@ -1,0 +1,85 @@
+{
+    "online-test-questions": [
+        {   
+            "id": 1,
+            "question": "Which of the following would be considered as most valuable by an Agile team?",
+            "option1": "Following a plan",
+            "option2": "Processes and Tools",
+            "option3": "Working software",
+            "answer":  "option3"
+        },
+        {
+            "id": 2,
+            "question": "Which methodology is known for frequent releases and osmotic communication?",
+            "option1": "XP",
+            "option2": "Crystal",
+            "option3": "Scrum",
+            "answer": "option2"
+        },
+        {
+            "id": 3,
+            "question": "Which of the following statements describes Scrum?",
+            "option1": " A methodology in which you practice only continuous integration and pair programming",
+            "option2": "A basic workflow visualization tool that enables you to optimize your work ",
+            "option3": "A lightweight framework designed to develop and manage complex products in an iterative and incremental way ",
+            "answer": "option3"
+        },
+        {
+            "id": 4,
+            "question": "A Product Owner wants a story to be completed in four days. The Development Team working on the Story reckons it will take seven days. The Scrum Master feels it should take five days. A subject matter expert, who has worked on similar Stories in the past, thinks it should take maximum three days.Whose estimate should be used for planning?",
+            "option1": "The Development Team",
+            "option2": "The Product Owner's",
+            "option3": "The Scrum Master's",
+            "answer": "option1"
+        },
+        {
+            "id": 5,
+            "question": "Which items on the product backlog should be small?",
+            "option1": "The items on the bottom of the Product Backlog ",
+            "option2": "The items on the top of the Product Backlog ",
+            "option3": "All items in the Product Backlog",
+            "answer": "option2"
+        },
+        {
+            "id": 6,
+            "question": "Agile planning happens at multiple levels. Which of the following terms best describes the multi-level planning?",
+            "option1": "Planning Onion",
+            "option2": "Sprint Planning layers",
+            "option3": "Strategic Level Planning",
+            "answer":  "option1"
+        },
+        {
+            "id": 7,
+            "question": "During a release planning, the Product Backlog items are grouped into smaller releases that drive towards the product roadmap. Who plans a release?",
+            "option1": "Product Owner",
+            "option2": "Stakeholders",
+            "option3": "Scrum Team",
+            "answer":  "option3"
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the highest priority for an Agile project?",
+            "option1": "Escaped defects ",
+            "option2": "Customer satisfaction",
+            "option3": "Sprint Burn-down rate ",
+            "answer": "option2"
+        },
+        {
+            "id": 9,
+            "question": "A Scrum of Scrums is a meeting between ________.",
+            "option1": "Only the Scrum Masters of all the Scrum teams",
+            "option2": "A couple of members from each Scrum team ",
+            "option3": "A couple of members from each Scrum team ",
+            "answer": "option3"
+        },
+        {
+            "id": 10,
+            "question": "In adopting Agile, Support and Maintenance teams have to primarily become used to ________.",
+            "option1": "Working with a backlog",
+            "option2": "Reviewing bugs ",
+            "option3": "SLAs",
+            "answer": "option1"
+        }
+    ]
+
+}
